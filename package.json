@@ -1,0 +1,52 @@
+{
+    "name": "devops-vscode-essentials",
+    "displayName": "DevOps VSCode Essentials",
+    "description": "VSCode Essential Extension Pack for DevOps",
+    "version": "0.0.1",
+    "publisher": "jtavin",
+    "repository": "https://github.com/J00MZ/devops-vscode-essentials",
+    "icon": "images/backpack-emoji.png",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "4ops.terraform",
+        "amazonwebservices.aws-toolkit-vscode",
+        "atlassian.atlascode",
+        "buster.ndjson-colorizer",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "cschleiden.vscode-github-actions",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "felixrieseberg.vsc-travis-ci-status",
+        "formulahendry.github-actions",
+        "foxundermoon.shell-format",
+        "GitHub.copilot",
+        "GitHub.github-vscode-theme",
+        "hashicorp.terraform",
+        "HookyQR.beautify",
+        "me-dutour-mathieu.vscode-github-actions",
+        "ms-azuretools.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ms-vsliveshare.vsliveshare",
+        "redhat.ansible",
+        "redhat.vscode-commons",
+        "redhat.vscode-yaml",
+        "scala-lang.scala",
+        "sldobri.dark-mode-darcula",
+        "Tim-Koehler.helm-intellisense",
+        "timonwong.shellcheck",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "vscode-icons-team.vscode-icons"
+    ],
+    "devDependencies": {
+        "ts-loader": "^9.2.6",
+        "webpack": "^5.65.0",
+        "webpack-cli": "^4.9.1"
+    }
+}
