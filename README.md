@@ -10,7 +10,7 @@
 [ratings]: https://marketplace.visualstudio.com/items?itemName=jtavin.devops-vscode-essentials
   
 ## Description
-Extension Pack for commonly used extensions I <3
+Extension Pack for DevOps Engineers of commonly used extensions I 💙.
 
 ## List of Extensions
 
