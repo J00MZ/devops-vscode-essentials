@@ -5,3 +5,4 @@ Notable changes to the `"devops-vscode-essentials"` Extension Pack will be docum
 ## [Releases]
 
 - `0.0.1` - Initial Release
+- `0.0.2` - Added extensions
